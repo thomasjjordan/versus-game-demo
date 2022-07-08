@@ -5,6 +5,8 @@
 
 In the project directory, you can run:
 
+### `npm install` or `yarn install`
+
 ### `npm start` or `yarn start`
 
 Runs the app in the development mode.\
@@ -25,4 +27,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 * If you search images, you will be able to "favorite" them. Navigate to the `Dashboard` to see the images you have favorited. You can also "un-favorite" images from the `Dashboard` as well
 
 
-### Thank you and I look forward to discussing the application with you soon 
+### Thank you and I look forward to discussing the application with you soon
